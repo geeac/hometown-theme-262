@@ -1,0 +1,1190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hometown v1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-04 03:06:35+0000\n"
+"Last-Translator: admin <contact@nutrawee.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Thai\n"
+"X-Poedit-Country: THAILAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:10
+#: header.php:98
+#: searchform.php:2
+#@ theme_front
+msgid "Search &#8230;"
+msgstr ""
+
+#: 404.php:11
+#: custom/widget/property-search.php:139
+#: custom/widget/property-search.php:140
+#: section/section-property-search.php:159
+#: section/section-property-search.php:160
+#@ theme_front
+msgid "Search"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+#@ theme_front
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:18
+#@ theme_front
+msgid "Comment Page:"
+msgstr ""
+
+#: comments.php:33
+#@ theme_front
+msgid "Name"
+msgstr ""
+
+#: comments.php:35
+#@ theme_front
+msgid "Email"
+msgstr ""
+
+#: comments.php:37
+#: section/section-member-edit-profile.php:43
+#@ theme_front
+msgid "Website"
+msgstr ""
+
+#: comments.php:45
+#@ theme_front
+msgid "Message *"
+msgstr ""
+
+#: comments.php:72
+#@ theme_front
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:82
+#@ theme_front
+msgid "Edit"
+msgstr ""
+
+#: custom/theme-functions.php:59
+#@ theme_front
+msgid "This post is password protected. Please fill the password:"
+msgstr ""
+
+#: custom/theme-functions.php:61
+#: section/section-login-register.php:13
+#@ theme_front
+msgid "Password"
+msgstr ""
+
+#: custom/theme-functions.php:62
+#: framework/lib/wordpress-importer/wordpress-importer.php:286
+#: single-property.php:307
+#@ theme_front
+#@ wordpress-importer
+msgid "Submit"
+msgstr ""
+
+#: custom/widget/property-search.php:33
+#: section/section-property-search.php:29
+#@ theme_front
+msgid "Property Location"
+msgstr ""
+
+#: custom/widget/property-search.php:35
+#: custom/widget/property-search.php:52
+#: custom/widget/property-search.php:69
+#: section/section-member-add-property.php:158
+#: section/section-member-add-property.php:177
+#: section/section-member-add-property.php:196
+#: section/section-property-search.php:26
+#: section/section-property-search.php:31
+#: section/section-property-search.php:48
+#: section/section-property-search.php:65
+#: section/section-property-search.php:83
+#: section/section-property-search.php:96
+#@ theme_front
+msgid "Any"
+msgstr ""
+
+#: custom/widget/property-search.php:50
+#: section/section-property-search.php:46
+#@ theme_front
+msgid "Property Status"
+msgstr ""
+
+#: custom/widget/property-search.php:67
+#: section/section-property-search.php:63
+#@ theme_front
+msgid "Property Type"
+msgstr ""
+
+#: custom/widget/property-search.php:106
+#: section/section-member-add-property.php:213
+#: section/section-property-search.php:127
+#@ theme_front
+msgid "Price"
+msgstr ""
+
+#: custom/widget/property-search.php:132
+#: section/section-member-add-property.php:225
+#: section/section-property-search.php:153
+#@ theme_front
+msgid "Area"
+msgstr ""
+
+#: framework/function/base-functions.php:66
+#, php-format
+#@ theme_front
+msgid "Page %s"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:161
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:162
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:163
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:164
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:165
+#, php-format
+#@ theme_front
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:166
+#, php-format
+#@ theme_front
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:167
+#, php-format
+#@ theme_front
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:168
+#, php-format
+#@ theme_front
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:169
+#, php-format
+#@ theme_front
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:170
+#, php-format
+#@ theme_front
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:171
+#, php-format
+#@ theme_front
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:172
+#, php-format
+#@ theme_front
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:173
+#@ theme_front
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:174
+#@ theme_front
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:175
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:176
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:177
+#: framework/lib/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:179
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:180
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:531
+#: framework/lib/class-tgm-plugin-activation.php:2156
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1166
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1169
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1174
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1180
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1182
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1287
+#: framework/lib/class-tgm-plugin-activation.php:1395
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1309
+#: framework/lib/class-tgm-plugin-activation.php:1396
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1358
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1374
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1375
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1376
+#: section/section-member-add-property.php:156
+#@ tgmpa
+#@ theme_front
+msgid "Type"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1377
+#: section/section-member-add-property.php:175
+#: section/section-member-dashboard.php:39
+#@ tgmpa
+#@ theme_front
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/lib/class-tgm-plugin-activation.php:1630
+#: framework/lib/class-tgm-plugin-activation.php:178
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1922
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1923
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1924
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1925
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1926
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1927
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1938
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2053
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2053
+#: framework/lib/class-tgm-plugin-activation.php:2062
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2053
+#: framework/lib/class-tgm-plugin-activation.php:2062
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2054
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2055
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2059
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2060
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2061
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2062
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2063
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2064
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/wordpress-importer/parsers.php:42
+#: framework/lib/wordpress-importer/parsers.php:72
+#: framework/lib/wordpress-importer/parsers.php:80
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/lib/wordpress-importer/parsers.php:43
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: framework/lib/wordpress-importer/parsers.php:84
+#: framework/lib/wordpress-importer/parsers.php:89
+#: framework/lib/wordpress-importer/parsers.php:279
+#: framework/lib/wordpress-importer/parsers.php:468
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:134
+#: framework/lib/wordpress-importer/wordpress-importer.php:143
+#: framework/lib/wordpress-importer/wordpress-importer.php:194
+#: framework/lib/wordpress-importer/wordpress-importer.php:198
+#: framework/lib/wordpress-importer/wordpress-importer.php:207
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:135
+#@ wordpress-importer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:178
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:178
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:179
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:199
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:215
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:240
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:266
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:267
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:269
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:279
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:282
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:299
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:310
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:313
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:321
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:323
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:324
+#@ wordpress-importer
+msgid "- Select -"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:374
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:425
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:465
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:511
+#: framework/lib/wordpress-importer/wordpress-importer.php:652
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:537
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:559
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:618
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:783
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:790
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:853
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:866
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:910
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:916
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:923
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:928
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:934
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:1033
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:1055
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:1056
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/lib/wordpress-importer/wordpress-importer.php:1131
+#@ wordpress-importer
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: index.php:38
+#: search.php:31
+#: single.php:39
+#@ theme_front
+msgid "No Comments"
+msgstr ""
+
+#: index.php:38
+#: search.php:31
+#: single.php:39
+#@ theme_front
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:38
+#: search.php:31
+#: single.php:39
+#@ theme_front
+msgid "% Comments"
+msgstr ""
+
+#: index.php:53
+#: search.php:40
+#: template-agent-listing-sidebar.php:29
+#: template-agent-listing.php:29
+#: template-property-listing-full-width.php:31
+#: template-property-listing-sidebar-left.php:31
+#: template-property-listing-sidebar-right.php:31
+#@ theme_front
+msgid "Next Page &rarr;"
+msgstr ""
+
+#: index.php:53
+#: search.php:40
+#: template-agent-listing-sidebar.php:29
+#: template-agent-listing.php:29
+#: template-property-listing-full-width.php:31
+#: template-property-listing-sidebar-left.php:31
+#: template-property-listing-sidebar-right.php:31
+#@ theme_front
+msgid "&larr; Previous Page"
+msgstr ""
+
+#: section/section-login-register.php:5
+#: section/section-login-register.php:60
+#@ theme_front
+msgid "Login"
+msgstr ""
+
+#: section/section-login-register.php:9
+#: section/section-login-register.php:29
+#: section/section-member-edit-profile.php:23
+#@ theme_front
+msgid "Username"
+msgstr ""
+
+#: section/section-login-register.php:10
+#: section/section-login-register.php:30
+#@ theme_front
+msgid "Username is required."
+msgstr ""
+
+#: section/section-login-register.php:14
+#@ theme_front
+msgid "Password is required."
+msgstr ""
+
+#: section/section-login-register.php:18
+#@ theme_front
+msgid "Log In"
+msgstr ""
+
+#: section/section-login-register.php:25
+#: section/section-login-register.php:39
+#: section/section-login-register.php:61
+#@ theme_front
+msgid "Register"
+msgstr ""
+
+#: section/section-login-register.php:34
+#@ theme_front
+msgid "E-mail"
+msgstr ""
+
+#: section/section-login-register.php:35
+#@ theme_front
+msgid "E-mail is required."
+msgstr ""
+
+#: section/section-login-register.php:35
+#@ theme_front
+msgid "Invalid E-mail address."
+msgstr ""
+
+#: section/section-login-register.php:45
+#: section/section-login-register.php:62
+#@ theme_front
+msgid "Forgot Password"
+msgstr ""
+
+#: section/section-login-register.php:49
+#@ theme_front
+msgid "Username or E-mail"
+msgstr ""
+
+#: section/section-login-register.php:50
+#@ theme_front
+msgid "Username or E-mail is required."
+msgstr ""
+
+#: section/section-login-register.php:54
+#@ theme_front
+msgid "Reset Password"
+msgstr ""
+
+#: section/section-member-add-property.php:100
+#@ theme_front
+msgid "Your property has been updated."
+msgstr ""
+
+#: section/section-member-add-property.php:136
+#@ theme_front
+msgid "Submit / Edit Property"
+msgstr ""
+
+#: section/section-member-add-property.php:142
+#@ theme_front
+msgid "Title"
+msgstr ""
+
+#: section/section-member-add-property.php:146
+#: section/section-property-search.php:25
+#@ theme_front
+msgid "Property ID"
+msgstr "รหัส"
+
+#: section/section-member-add-property.php:150
+#: section/section-member-edit-profile.php:47
+#@ theme_front
+msgid "Description"
+msgstr ""
+
+#: section/section-member-add-property.php:194
+#: section/section-member-add-property.php:294
+#: single-property.php:152
+#@ theme_front
+msgid "Location"
+msgstr ""
+
+#: section/section-member-add-property.php:219
+#@ theme_front
+msgid "Price Per"
+msgstr ""
+
+#: section/section-member-add-property.php:219
+#@ theme_front
+msgid "for example: month, year"
+msgstr ""
+
+#: section/section-member-add-property.php:250
+#: single-property.php:151
+#@ theme_front
+msgid "Features"
+msgstr ""
+
+#: section/section-member-add-property.php:266
+#@ theme_front
+msgid "Featured Image"
+msgstr ""
+
+#: section/section-member-add-property.php:278
+#@ theme_front
+msgid "Gallery"
+msgstr ""
+
+#: section/section-member-add-property.php:318
+#@ theme_front
+msgid "Submit Property"
+msgstr ""
+
+#: section/section-member-add-property.php:320
+#@ theme_front
+msgid "Update Property"
+msgstr ""
+
+#: section/section-member-dashboard.php:27
+#, php-format
+#@ theme_front
+msgid "<p>Your profile is empty. Please edit your profile <a href=\"%s\">here</a>.</p>"
+msgstr ""
+
+#: section/section-member-dashboard.php:33
+#@ theme_front
+msgid "My Properties"
+msgstr ""
+
+#: section/section-member-dashboard.php:40
+#: section/section-member-dashboard.php:93
+#@ theme_front
+msgid "Manage"
+msgstr ""
+
+#: section/section-member-dashboard.php:87
+#@ theme_front
+msgid "Favourite Properties"
+msgstr ""
+
+#: section/section-member-dashboard.php:92
+#@ theme_front
+msgid "Property"
+msgstr ""
+
+#: section/section-member-edit-profile.php:17
+#@ theme_front
+msgid "Edit Profile"
+msgstr ""
+
+#: section/section-member-edit-profile.php:27
+#: single-property.php:257
+#@ theme_front
+msgid "Email Address"
+msgstr ""
+
+#: section/section-member-edit-profile.php:31
+#@ theme_front
+msgid "Profile Image"
+msgstr ""
+
+#: section/section-member-edit-profile.php:32
+#@ theme_front
+msgid "Your profile image is managed with Gravatar, please manage it"
+msgstr ""
+
+#: section/section-member-edit-profile.php:32
+#@ theme_front
+msgid "here"
+msgstr ""
+
+#: section/section-member-edit-profile.php:35
+#@ theme_front
+msgid "Display Name"
+msgstr ""
+
+#: section/section-member-edit-profile.php:39
+#: single-property.php:258
+#@ theme_front
+msgid "Phone Number"
+msgstr ""
+
+#: section/section-member-edit-profile.php:50
+#@ theme_front
+msgid "Update Profile"
+msgstr ""
+
+#: section/section-property-search.php:81
+#@ theme_front
+msgid "Min Beds"
+msgstr ""
+
+#: section/section-property-search.php:94
+#@ theme_front
+msgid "Min Baths"
+msgstr ""
+
+#: section/section-property-sort.php:5
+#@ theme_front
+msgid "Sort By"
+msgstr ""
+
+#: section/section-property-sort.php:6
+#@ theme_front
+msgid "Price Low to High"
+msgstr ""
+
+#: section/section-property-sort.php:7
+#@ theme_front
+msgid "Price High to Low"
+msgstr ""
+
+#: section/section-property-sort.php:8
+#@ theme_front
+msgid "Date New to Old"
+msgstr ""
+
+#: section/section-property-sort.php:9
+#@ theme_front
+msgid "Date Old to New"
+msgstr ""
+
+#: section/section-property-sort.php:10
+#@ theme_front
+msgid "Name Ascending"
+msgstr ""
+
+#: section/section-property-sort.php:11
+#@ theme_front
+msgid "Name Descending"
+msgstr ""
+
+#: section/section-title.php:22
+#@ theme_front
+msgid "Blog"
+msgstr ""
+
+#: section/section-title.php:27
+#@ theme_front
+msgid "<strong>404</strong> page not found"
+msgstr ""
+
+#: section/section-title.php:28
+#@ theme_front
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. isn&rsquo;t it?"
+msgstr ""
+
+#: section/section-title.php:33
+#@ theme_front
+msgid "<strong>Search</strong> "
+msgstr ""
+
+#: section/section-title.php:36
+#@ theme_front
+msgid " results matched search query"
+msgstr ""
+
+#: section/section-title.php:38
+#@ theme_front
+msgid "no results matched search query"
+msgstr ""
+
+#: section/section-title.php:44
+#@ theme_front
+msgid "Attachment"
+msgstr ""
+
+#: section/section-title.php:50
+#, php-format
+#@ theme_front
+msgid "<em>Category</em> %s"
+msgstr ""
+
+#: section/section-title.php:53
+#, php-format
+#@ theme_front
+msgid "<em>Tag</em> %s"
+msgstr ""
+
+#: section/section-title.php:56
+#, php-format
+#@ theme_front
+msgid "<em>Daily</em> %s"
+msgstr ""
+
+#: section/section-title.php:58
+#, php-format
+#@ theme_front
+msgid "<em>Monthly</em> %s"
+msgstr ""
+
+#: section/section-title.php:60
+#, php-format
+#@ theme_front
+msgid "<em>Yearly</em> %s"
+msgstr ""
+
+#: section/section-title.php:69
+#, php-format
+#@ theme_front
+msgid "<em>Author</em> %s"
+msgstr ""
+
+#: section/section-user-menu.php:18
+#@ theme_front
+msgid "LOGOUT"
+msgstr ""
+
+#: section/section-user-menu.php:20
+#@ theme_front
+msgid "LOGIN / REGISTER"
+msgstr ""
+
+#: single-agent.php:21
+#@ theme_front
+msgid "Assigned Properties"
+msgstr ""
+
+#: single-property.php:29
+#@ theme_front
+msgid "Inquiry Property"
+msgstr ""
+
+#: single-property.php:46
+#@ theme_front
+msgid "Your message has been sent."
+msgstr ""
+
+#: single-property.php:48
+#@ theme_front
+msgid "There are something wrong."
+msgstr ""
+
+#: single-property.php:125
+#@ theme_front
+msgid "ID"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: single-property.php:136
+#: section/section-member-add-property.php:237
+#@ theme_front
+msgid "Bedroom"
+msgid_plural "Bedrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: single-property.php:136
+#: section/section-member-add-property.php:231
+#@ theme_front
+msgid "Bathroom"
+msgid_plural "Bathrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: single-property.php:136
+#: section/section-member-add-property.php:243
+#@ theme_front
+msgid "Garage"
+msgid_plural "Garages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single-property.php:150
+#@ theme_front
+msgid "Details"
+msgstr ""
+
+#: single-property.php:153
+#@ theme_front
+msgid "Contact"
+msgstr ""
+
+#: single-property.php:192
+#@ theme_front
+msgid "View on Google Map"
+msgstr ""
+
+#: single-property.php:259
+#@ theme_front
+msgid "Message"
+msgstr ""
+
+#: single-property.php:263
+#@ theme_front
+msgid "Send message to"
+msgstr ""
+
+#: single-property.php:288
+#@ theme_front
+msgid "Enter the words above"
+msgstr ""
+
+#: single-property.php:343
+#@ theme_front
+msgid "Related Properties"
+msgstr ""
+
+#: single.php:48
+#@ theme_front
+msgid "Pages:"
+msgstr ""
+
